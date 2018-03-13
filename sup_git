@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Date: Thu, 28 Dec 2017 02:24:24 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 2165
+Server: GitHub.com
+Status: 200 OK
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1514431269
+Cache-Control: private, max-age=60, s-maxage=60
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+ETag: "a152ced5bd679c4d342eaa84abe603dc"
+X-GitHub-Media-Type: github.v3; format=json
+Access-Control-Expose-Headers: ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'none'
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-Runtime-rack: 0.043946
+Vary: Accept-Encoding
+X-GitHub-Request-Id: F332:D60D:494BD75:62EBD5B:5A4455D8
+
